@@ -1,10 +1,10 @@
-gitfolio
+# gitfolio
 
 > My github portfolio. Built with [gitfolio](https://github.com/imfunniee/gitfolio).
 
 **[https://lab.miguelmota.com/gitfolio](https://lab.miguelmota.com/gitfolio)**
 
-## Development
+## Getting started
 
 Install:
 
